@@ -1,4 +1,6 @@
-# test
+#
+:q
+test
 app
 adndroid
 lan
